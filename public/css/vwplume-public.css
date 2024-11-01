@@ -1,0 +1,16 @@
+.vw-planner-productpage {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.vw-planner-productpage-replace-summary {
+    margin: 0;
+}
+
+.vw-planner-productpage-before-summary {
+    margin-bottom: 60px;
+}
+ 
+.vw-planner-productpage-after-summary {
+    clear: both;
+}

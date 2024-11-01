@@ -1,0 +1,21 @@
+#vwplume_product_configuration section:not(.vwplume_embed_enabled_selection) {
+    display: none;
+}
+#vwplume_product_configuration.vwplume-enabled section {
+    display: initial;
+}
+.vwplume_assembly_download_links {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1em;
+}
+.vwplume_button {
+    display: flex!important;
+    flex-flow: row;
+    align-items: center;
+}
+.vwplume_button_inline {
+    display: inline-flex!important;
+}
